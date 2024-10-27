@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: inline-flexbox;
+}
+
+.container {
+    background-color: antiquewhite;
+    width: 1400px;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px 10px;
+    color: black;
+}
+
+.container-header {
+    background-color: #da8573;
+    color: white;
+    width: 1400px;
+    height: 75px;
+}
+
+.header-title {
+    text-transform: uppercase;
+    display: inline;
+    
+}
+
+.header-name {
+    display: inline;
+}
+.header-name {
+    float: right;
+}
+
+.container_body {
+background-color: antiquewhite;
+color: black;
+font-size: 16px;
+;
+display: inline;
+ul {
+    list-style-type: none;
+}
+.img {text-decoration: line-through;}
